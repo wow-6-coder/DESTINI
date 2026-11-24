@@ -1,0 +1,3 @@
+model,observations,MAE_seconds,RMSE_seconds,GPS_coverage_percent
+Schedule only,1838,51.10174102285092,62.99453747670701,0.0
+October 1 GPS + schedule fallback,1838,21.555767138193687,39.89638886410752,100.0

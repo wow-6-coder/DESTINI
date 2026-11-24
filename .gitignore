@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/historical_gps/
+data/live_gtfs_rt/
+
+data/static_gtfs/bus.zip
+
+
+data/processed/transfer_stop_times.parquet
+data/processed/bus_connections.csv
+data/processed/bus_connections_clean.csv
+data/processed/bus_connections_enriched.csv

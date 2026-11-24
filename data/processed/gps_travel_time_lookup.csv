@@ -1,0 +1,75 @@
+from_stop_id,from_stop_name,to_stop_id,to_stop_name,observations,median_seconds,mean_seconds,min_seconds,max_seconds,median_minutes
+3043,Chirag Dilli / Chirag Delhi Metro Station,3044,Swami Nagar,39,50.0,118.56410256410257,30.0,631.0,0.83
+2806,Masjid Moth,3043,Chirag Dilli / Chirag Delhi Metro Station,38,51.0,88.26315789473684,30.0,410.0,0.85
+2379,Panchsheel Club (Sarv Priya Vihar),2908,IIT Gate,38,175.0,302.63157894736844,80.0,861.0,2.92
+2908,IIT Gate,2909,Jia Sarai,36,50.0,48.666666666666664,30.0,140.0,0.83
+3044,Swami Nagar,3070,North Paint Nursing Home / Panchsheel Park Metro Station,36,80.0,136.91666666666666,30.0,491.0,1.33
+3071,Panchsheel Club  / Panchsheel Enclave,2379,Panchsheel Club (Sarv Priya Vihar),35,70.0,140.82857142857142,30.0,600.0,1.17
+3045,Sadhna Enclave,3071,Panchsheel Club  / Panchsheel Enclave,34,40.0,82.11764705882354,30.0,290.0,0.67
+2910,IIT Hostel,2911,I.S.T.M (NATIONAL INSTITUTE OF HEALTH & FAMILY WELFARE),34,60.5,82.73529411764706,30.0,230.0,1.01
+2911,I.S.T.M (NATIONAL INSTITUTE OF HEALTH & FAMILY WELFARE),9725,DDA Flats Munirka,32,40.0,59.71875,30.0,171.0,0.67
+10083,Greater Kailash,2806,Masjid Moth,32,40.0,50.65625,30.0,140.0,0.67
+2560,Nehru Place Terminal,5971,Paras Cinema,32,85.0,83.1875,40.0,140.0,1.42
+3022,Swami Malai Mandir,8064,RAO TULA RAM COLLEGE / Vasant Village / Shani Mandir,32,200.0,262.3125,70.0,791.0,3.33
+5971,Paras Cinema,2805,Pumposh Enclave,31,80.0,111.41935483870968,60.0,471.0,1.33
+2805,Pumposh Enclave,10062,OS Communication,30,40.0,49.733333333333334,30.0,130.0,0.67
+3070,North Paint Nursing Home / Panchsheel Park Metro Station,3045,Sadhna Enclave,28,40.0,74.28571428571429,30.0,290.0,0.67
+3187,Najafgarh Delhi Gate,8020,Police Station Najafgarh,27,100.0,97.81481481481481,30.0,160.0,1.67
+3568,Tuda Mandi Najafgarh Road,3187,Najafgarh Delhi Gate,27,140.0,139.77777777777777,90.0,261.0,2.33
+3454,Arjun Path / APS Colony,3455,Kendriya Vidhyalaya  / APS SCHOOL,26,85.5,92.46153846153847,60.0,160.0,1.42
+10084,RAKSHA BHAWAN PALAM,3601,Palam More,25,100.0,102.2,70.0,150.0,1.67
+3767,Dwarka Sector 1,3826,J M International School,25,101.0,104.48,30.0,230.0,1.68
+8064,RAO TULA RAM COLLEGE / Vasant Village / Shani Mandir,3454,Arjun Path / APS Colony,24,90.0,97.25,80.0,170.0,1.5
+3828,Madhu Vihar,3829,Rajapuri,22,130.5,226.04545454545453,50.0,841.0,2.17
+2913,Munirka Famliy Planing,3020,Vasant Vihar Depot,22,145.5,148.9090909090909,60.0,290.0,2.42
+2909,Jia Sarai,2910,IIT Hostel,21,40.0,37.666666666666664,30.0,60.0,0.67
+3237,SHAKURPUR VILLAGE / Shiv Mandir / Sanik Enclave,6725,CRPF Jharoda,21,40.0,46.333333333333336,30.0,120.0,0.67
+6724,Saraswati Kunj Jharoda,3237,SHAKURPUR VILLAGE / Shiv Mandir / Sanik Enclave,21,60.0,157.66666666666666,40.0,881.0,1.0
+3240,S.S. Kanya Vidhyalaya,3241,Jharoda Village,21,81.0,93.52380952380952,60.0,200.0,1.35
+3688,Palam Colony Flyover,3689,Dwarka Flyover Palam Village / Palam Railway Xing,20,45.0,53.0,30.0,90.0,0.75
+3687,Prehlad Pur ( Palam ),3688,Palam Colony Flyover,20,50.0,63.1,30.0,211.0,0.83
+3239,PTS Jharoda,3240,S.S. Kanya Vidhyalaya,20,60.0,72.6,30.0,270.0,1.0
+8021,Najafgarh Dhansa Stand / Dhansa Crossing,8022,Jharoda Crossing Jharoda Road,20,70.0,65.55,30.0,131.0,1.17
+6725,CRPF Jharoda,3239,PTS Jharoda,20,80.0,79.05,60.0,110.0,1.33
+8020,Police Station Najafgarh,8021,Najafgarh Dhansa Stand / Dhansa Crossing,19,30.0,35.421052631578945,30.0,60.0,0.5
+10086,Jharoda Kalan,3242,Jharoda Kalan,19,40.0,48.526315789473685,30.0,90.0,0.67
+3566,Sai Baba Mandir,3567,Power House NajafGarh,19,60.0,68.05263157894737,40.0,110.0,1.0
+6613,Bangali Colony,6724,Saraswati Kunj Jharoda,19,80.0,75.84210526315789,50.0,100.0,1.33
+3836,NSIT (Netaji Subhas Institute) / Sulahkul Mandir,9317,DWARKA CROSSING / Suraj Vihar,18,70.0,100.55555555555556,60.0,320.0,1.17
+3826,J M International School,3827,Dwarka Sec 2/6,18,80.0,79.0,50.0,120.0,1.33
+3602,Palam Airport  / IGI Airport T1,3603,IOL,18,80.5,104.11111111111111,60.0,290.0,1.34
+3560,Kakrola Bridge,8089,Nangli Dairy,18,90.5,96.33333333333333,40.0,171.0,1.51
+3242,Jharoda Kalan,3243,Jharoda Nala Crossing,17,40.0,43.588235294117645,30.0,60.0,0.67
+3234,New Anaj Mandi (NAJAFGARH),3235,Baba Haridass Nagar,17,50.0,52.35294117647059,30.0,70.0,0.83
+8022,Jharoda Crossing Jharoda Road,3232,Najafgarh Terminal,17,50.0,53.64705882352941,30.0,110.0,0.83
+8165,Nangli Sakrawati,3566,Sai Baba Mandir,17,60.0,64.70588235294117,40.0,90.0,1.0
+6601,RK Puram Sec 6,3022,Swami Malai Mandir,17,70.0,79.47058823529412,30.0,251.0,1.17
+8088,Kakrola More,3560,Kakrola Bridge,17,70.0,94.76470588235294,30.0,271.0,1.17
+3601,Palam More,3602,Palam Airport  / IGI Airport T1,17,80.0,83.0,70.0,140.0,1.33
+3827,Dwarka Sec 2/6,3828,Madhu Vihar,17,110.0,108.23529411764706,40.0,170.0,1.83
+3020,Vasant Vihar Depot,3451,Vasant Vihar / Poorvi Marg RK Puram Sec 5,17,120.0,152.58823529411765,50.0,481.0,2.0
+3825,Dwarka Crossing / Maharaja Agrasen Hospital,3767,Dwarka Sector 1,16,50.0,72.0625,40.0,180.0,0.83
+3829,Rajapuri,3830,Matiyala Xing,16,60.0,55.625,30.0,80.0,1.0
+3233,Surakh Pur Crossing,3234,New Anaj Mandi (NAJAFGARH),15,70.0,70.06666666666666,50.0,90.0,1.17
+3686,Indian Oil Station,3687,Prehlad Pur ( Palam ),15,80.0,88.66666666666667,70.0,210.0,1.33
+3603,IOL,3686,Indian Oil Station,15,100.0,110.0,50.0,240.0,1.67
+3235,Baba Haridass Nagar,10085,Naveen Place,13,40.0,36.15384615384615,30.0,50.0,0.67
+3243,Jharoda Nala Crossing,9357,Jharoda Kalan Border (Satyam Puram),13,160.0,196.23076923076923,110.0,521.0,2.67
+3831,DPS Matiyala (Delhi Public School ),3832,Dwarka Sec 3/4,12,40.0,41.666666666666664,30.0,60.0,0.67
+3563,Arjun Park,8090,Nangli Sakrawati Crossing,12,50.0,54.166666666666664,30.0,70.0,0.83
+3832,Dwarka Sec 3/4,3833,Dwarka Sec 13/3 Xing,12,85.0,89.25,30.0,180.0,1.42
+9317,DWARKA CROSSING / Suraj Vihar,8088,Kakrola More,12,110.0,128.41666666666666,50.0,300.0,1.83
+3833,Dwarka Sec 13/3 Xing,3834,MRV School / Dwarka Sec- 13,11,40.0,56.36363636363637,30.0,140.0,0.67
+8089,Nangli Dairy,3562,Chhathh Ghat Park,11,50.0,51.90909090909091,40.0,70.0,0.83
+3830,Matiyala Xing,3831,DPS Matiyala (Delhi Public School ),10,30.0,33.1,30.0,41.0,0.5
+3834,MRV School / Dwarka Sec- 13,3835,Dwarka Sec 13 / 14,10,30.0,35.0,30.0,60.0,0.5
+10062,OS Communication,10083,Greater Kailash,9,30.0,37.888888888888886,30.0,70.0,0.5
+8090,Nangli Sakrawati Crossing,8165,Nangli Sakrawati,9,40.0,40.111111111111114,30.0,60.0,0.67
+9775,Dwarka - Xing,3825,Dwarka Crossing / Maharaja Agrasen Hospital,8,125.0,137.625,70.0,250.0,2.08
+3455,Kendriya Vidhyalaya  / APS SCHOOL,10084,RAKSHA BHAWAN PALAM,7,30.0,30.142857142857142,30.0,31.0,0.5
+3451,Vasant Vihar / Poorvi Marg RK Puram Sec 5,6601,RK Puram Sec 6,6,30.0,40.166666666666664,30.0,90.0,0.5
+3567,Power House NajafGarh,3568,Tuda Mandi Najafgarh Road,6,30.0,41.833333333333336,30.0,100.0,0.5
+3562,Chhathh Ghat Park,3563,Arjun Park,3,30.0,30.0,30.0,30.0,0.5
+9725,DDA Flats Munirka,2913,Munirka Famliy Planing,3,30.0,43.333333333333336,30.0,70.0,0.5
+10085,Naveen Place,6613,Bangali Colony,2,30.0,30.0,30.0,30.0,0.5
+3232,Najafgarh Terminal,3233,Surakh Pur Crossing,1,31.0,31.0,31.0,31.0,0.52
